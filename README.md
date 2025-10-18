@@ -19,5 +19,5 @@ python recovery.py
 на телефоні так само работает на компьютере я не знаю ну проверьте
 
 
-![фото 1](images/XRecorder_20251017_12.jpg)
-![фото 2](images/XRecorder_20251017_13.jpg)
+![фото 1](XRecorder_20251017_12.jpg)
+![фото 2](XRecorder_20251017_13.jpg)
